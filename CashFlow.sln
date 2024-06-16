@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1BD391E4-FDD5-4EF9-91CD-EA04D56ECC8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{AF2C4FC8-2219-4FDC-AD0B-9BD6685B5535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlow.Domain", "src\CashFlow.Domain\CashFlow.Domain.csproj", "{880058D3-E4F5-42E9-89AE-CF57A228D8DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlow.Application", "src\CashFlow.Application\CashFlow.Application.csproj", "{A98E47D1-3EEC-4529-A996-0D10D9759C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlow.Exception", "src\CashFlow.Exception\CashFlow.Exception.csproj", "{DB5AA906-390F-492E-BF37-5C004F137795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlow.Infraestructure", "src\CashFlow.Infraestructure\CashFlow.Infraestructure.csproj", "{2557280B-6140-44F8-89D3-595303C7D59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlow.Communication", "src\CashFlow.Communication\CashFlow.Communication.csproj", "{9F92613A-E557-4EE7-9583-840D22D65CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlow.Api", "src\CashFlow.Api\CashFlow.Api.csproj", "{FA27EACE-56EB-4E59-BD73-329A7854D1E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880058D3-E4F5-42E9-89AE-CF57A228D8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880058D3-E4F5-42E9-89AE-CF57A228D8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880058D3-E4F5-42E9-89AE-CF57A228D8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880058D3-E4F5-42E9-89AE-CF57A228D8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98E47D1-3EEC-4529-A996-0D10D9759C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98E47D1-3EEC-4529-A996-0D10D9759C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98E47D1-3EEC-4529-A996-0D10D9759C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98E47D1-3EEC-4529-A996-0D10D9759C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5AA906-390F-492E-BF37-5C004F137795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5AA906-390F-492E-BF37-5C004F137795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5AA906-390F-492E-BF37-5C004F137795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5AA906-390F-492E-BF37-5C004F137795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2557280B-6140-44F8-89D3-595303C7D59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2557280B-6140-44F8-89D3-595303C7D59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2557280B-6140-44F8-89D3-595303C7D59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2557280B-6140-44F8-89D3-595303C7D59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F92613A-E557-4EE7-9583-840D22D65CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F92613A-E557-4EE7-9583-840D22D65CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F92613A-E557-4EE7-9583-840D22D65CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F92613A-E557-4EE7-9583-840D22D65CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA27EACE-56EB-4E59-BD73-329A7854D1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA27EACE-56EB-4E59-BD73-329A7854D1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA27EACE-56EB-4E59-BD73-329A7854D1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA27EACE-56EB-4E59-BD73-329A7854D1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{880058D3-E4F5-42E9-89AE-CF57A228D8DC} = {1BD391E4-FDD5-4EF9-91CD-EA04D56ECC8E}
+		{A98E47D1-3EEC-4529-A996-0D10D9759C79} = {1BD391E4-FDD5-4EF9-91CD-EA04D56ECC8E}
+		{DB5AA906-390F-492E-BF37-5C004F137795} = {1BD391E4-FDD5-4EF9-91CD-EA04D56ECC8E}
+		{2557280B-6140-44F8-89D3-595303C7D59E} = {1BD391E4-FDD5-4EF9-91CD-EA04D56ECC8E}
+		{9F92613A-E557-4EE7-9583-840D22D65CCA} = {1BD391E4-FDD5-4EF9-91CD-EA04D56ECC8E}
+		{FA27EACE-56EB-4E59-BD73-329A7854D1E0} = {1BD391E4-FDD5-4EF9-91CD-EA04D56ECC8E}
+	EndGlobalSection
+EndGlobal

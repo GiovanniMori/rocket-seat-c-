@@ -1,0 +1,15 @@
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/bin/Debug/net8.0/CashFlow.Infraestructure.deps.json
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/bin/Debug/net8.0/CashFlow.Infraestructure.dll
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/bin/Debug/net8.0/CashFlow.Infraestructure.pdb
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/bin/Debug/net8.0/CashFlow.Domain.dll
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/bin/Debug/net8.0/CashFlow.Domain.pdb
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/obj/Debug/net8.0/CashFlow.Infraestructure.csproj.AssemblyReference.cache
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/obj/Debug/net8.0/CashFlow.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/obj/Debug/net8.0/CashFlow.Infraestructure.AssemblyInfoInputs.cache
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/obj/Debug/net8.0/CashFlow.Infraestructure.AssemblyInfo.cs
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/obj/Debug/net8.0/CashFlow.Infraestructure.csproj.CoreCompileInputs.cache
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/obj/Debug/net8.0/CashFlow.Infraestructure.csproj.CopyComplete
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/obj/Debug/net8.0/CashFlow.Infraestructure.dll
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/obj/Debug/net8.0/refint/CashFlow.Infraestructure.dll
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/obj/Debug/net8.0/CashFlow.Infraestructure.pdb
+/Users/giovannimori/projects/CashFlow/src/CashFlow.Infraestructure/obj/Debug/net8.0/ref/CashFlow.Infraestructure.dll
